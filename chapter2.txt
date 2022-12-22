@@ -1,3 +1,4 @@
 Anonymes:So how you doing?
-Rabbani:I am doing Good,currently i am learning about git and github,
+Rabbani:I am doing Good,currently I am learning about git and github,
 	so what u ar doing?
+Anonymes:Noting much.github,What it is?
